@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/csharp
 # Edit at https://www.toptal.com/developers/gitignore?templates=csharp
 
@@ -402,6 +403,8 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp
 =======
+=======
+>>>>>>> 43f6c31eb8b61cb0421f5d2bd7f1c5f0231b4bca
 # Prerequisites
 *.d
 
@@ -454,4 +457,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
+>>>>>>> 43f6c31eb8b61cb0421f5d2bd7f1c5f0231b4bca
+=======
 >>>>>>> 43f6c31eb8b61cb0421f5d2bd7f1c5f0231b4bca
